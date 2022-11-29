@@ -1,8 +1,8 @@
 ~~Code 102 Reading Notes~~
 
 **Code 201 Reading Notes**
-1. Things I want to learn
-2. *Item two*
+1. Class 01
+2. Class 02
 3. *Item three*
 4. *Item four*
 5. *Item five*
