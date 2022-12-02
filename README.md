@@ -1,18 +1,18 @@
 ~~Code 102 Reading Notes~~
 
 **Code 201 Reading Notes**
-1. Class 01
-2. Class 02
-3. *Item three*
-4. *Item four*
-5. *Item five*
-6. *Item six*
-7. *Item seven*
-8. *Item eight*
-9. *Item nine*
-10. *Item ten*
-11. *Item eleven*
-12. *Item twelve*
-13. *Item thirteen*
-14. *Item fourteen*
-15. *Item fifteen*
+1. Class01
+2. Class02
+3. Class03
+4. Class04
+5. Class05
+6. Class06
+7. Class07
+8. Class08
+9. Class09
+10. Class10
+11. Class11
+12. Class12
+13. Class13
+14. Class14
+15. Class15
