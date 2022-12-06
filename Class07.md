@@ -17,7 +17,6 @@
 
 2. List and describe 3 different semantic HTML elements used in an HTML <table>.
     [MDN - HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
-    <table>
       <th> - table header: goes at beginning of table row/column. The <th> tag makes the wrapped text stand out, making the table easier to read.
         <tr> - table row: each subsequent <tr> tag creates a new row below the preceding one in the table.
           <td> - table data: is the smallest container in a table. Contains specific data about the subject.
