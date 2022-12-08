@@ -22,7 +22,7 @@
 ##### [Intro to Events](Introduction To Events)
 
 1. How would you describe events to a non-technical friend?
-    [MDN - Itroduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+    [MDN - Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
     An example of an event is when you interact with the website, like clicking the "Add to Cart" button. It tells the website that you added something to your cart and it changes the appearance of the cart logo. 
 
 2. When using the addEventListener() method, what 2 arguments will you need to provide?
@@ -37,3 +37,5 @@
     [MDN - Event bubbling](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling)
     Event bubbling targets nested elements - starts with the innermost element, like the button and bubbles out from there.
     Event capture is the reverse of bubbling. It fires on the outermost element and works its way in. By default, capture is disabled and must be enabled by adding the option: eg - container.addEventListener('click', handleClick, { capture: true });
+
+
