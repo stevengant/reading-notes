@@ -1,6 +1,6 @@
 # HTML Forms
 
-##### [Your First Web Form](Your first Web Form) [How to Structure a Web Form](How To Structure A Web Form)
+##### [Your First Web Form](Your first Web Form. How To Structure A Web Form)
 
 1. Why are forms so important in web development?
     [MDN - What are web forms?](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
