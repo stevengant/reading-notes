@@ -41,3 +41,4 @@
     - Returns m where m is greater than n
 
 4. Explain how either map or reduce operates, with regards to higher-order functions.
+    - The map method transforms an array by applying a function to all of its elements and building a new array from the returned values
