@@ -5,12 +5,18 @@
 [The Geek Stuff](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 1. Fill in the chart below with five differences between SQL and NoSQL databases:
 
-SQL	                       NoSQL 
-Relational Databases       Non-relational/distributed
-Table-based                Doc-based - key-value pairs, etc
-Predefined schema          Dynamic schema
-Vertically scalable        Horizontally scalable
-Use Structured Query Lang  Focused on collection of documents
+SQL                       | NoSQL
+-------------------------------------------------------------- 
+Relational Databases      | Non-relational/distributed
+--------------------------------------------------------------
+Table-based               | Doc-based - key-value pairs, etc
+--------------------------------------------------------------
+Predefined schema         | Dynamic schema
+--------------------------------------------------------------
+Vertically scalable       | Horizontally scalable
+--------------------------------------------------------------
+Use Structured Query Lang | Focused on collection of documents
+--------------------------------------------------------------
  	 
  	 
 1. What kind of data is a good fit for an SQL database?
