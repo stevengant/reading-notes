@@ -39,7 +39,7 @@
     - Using an array as arguments
 
 3. Give an example of using the spread operator to combine two arrays.
-    
+    - Spread can be used to take two arrays of numbers and perform math functions
 
 
 
@@ -49,17 +49,18 @@
      could be adding items to an existing shopping cart.
 
 5. Give an example of using the spread operator to combine two objects into one.
-
+    - You can use the spread operator to add a new created item to a list of items
 
 ## How to Pass Functions Between Components
 
 1. In the video, what is the first step that the developer does to pass functions between components?
-
+    - create function where the state is
 
 2. In your own words, what does the increment function do?
-
+    - Receive name, loop through the people array using the map method to check for matches, then returns ppl with an updated number and sets that as the new state
 
 3. How can you pass a method from a parent component into a child component?
-
+    - as props
 
 4. How does the child component invoke a method that was passed to it from a parent component?
+    - by calling it with this.props.
