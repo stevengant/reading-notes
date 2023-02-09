@@ -34,7 +34,12 @@
 14. Class14
 15. Class15
 
-** Code 401 REading Notes **
+** Code 401 Reading Notes **
+
+*** Prework ***
+- TheCommandLine
+- GrowthMindset
+- Engineering Readings
 1. Class01
 2. Class02
 3. Class03
