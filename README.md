@@ -40,6 +40,7 @@
 - TheCommandLine
 - GrowthMindset
 - Engineering Readings
+- Data Structures and Algorithms
 1. Class01
 2. Class02
 3. Class03
