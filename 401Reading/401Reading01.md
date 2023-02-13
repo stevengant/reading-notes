@@ -20,7 +20,7 @@
 ### Additional Questions
 
 1. Looking ahead at this module’s course schedule, What do you look forward to learning?
-    - In general, I am looking forward to learning more about Data Structures...and hopefully gain a better understanding og Big O
+    - In general, I am looking forward to learning more about Data Structures...and hopefully gain a better understanding of Big O
 
 2. What are your learning goals after reading and reviewing the class README?
     - The number one learning goal I have with this class is the interview process.
