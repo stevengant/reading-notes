@@ -8,4 +8,4 @@ Data in a relational database is usually organized in tables.
 A relational database can be administered through the use of a Relational Database Management System (RDBMS) such as MySQL, PostgreSQL, Oracle DB, SQL Server and SQLite.
 
 
-![SQL Bolt screenshot](images/SteveGantSQLBolt.png)
+![SQL Bolt screenshot](/images/SteveGantSQLBolt.png)
