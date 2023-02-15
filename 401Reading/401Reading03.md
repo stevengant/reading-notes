@@ -28,14 +28,16 @@
 ## Express Routing
 
 1. What is an Express Router?
-
+    [Digital Ocean - Express Router](https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+    - An Express Router is a mini express application that only contains routing
 
 2. By what mean do we initialize express.Router() in an express server?
-
+    - const router = express.Router();
 
 3. What do we use route middleware for?
-
+    - Using a middleware is a way to do something before a request is processed - such as logging data
 
 ## Reflection
 
 1. What are your learning goals after reading and reviewing the class README?
+    - I still want to get a good hold on tests, but after the readings and reading the README, I look forward to learning more about REST API 
