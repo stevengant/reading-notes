@@ -4,7 +4,7 @@
 
 1. What native Node.js module allows us to get started with Event Driven Programming?
   [EventEmitter](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
-    - EvenEmitter
+    - EventEmitter
 
 2. What is the value of Object Oriented Programming used in tandem with Event Driven Programming?
     - The Object Oriented approach promotes the idea that all behavior of an individual object can be handled by code within that unit. By registering event listeners we can actually reverse the flow of communication between our objects. Rather than on object needing to reach inside another object to trigger a function, our objects can just emit events and whichever objects are listening to those event will process it in the way they have been told to. The source of an objects behavior is now entirely contained within itself, rather than needing to be accessed by external objects.
