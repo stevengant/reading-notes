@@ -38,10 +38,10 @@
     3. Committing to the DOM (placing the order on the table)
 
 2. How do you trigger updates to a component after the initial render?
-    - You can update the state with the <set> function
+    - You can update the state with the set function
 
 3. Does React recreate DOM nodes on every rerender?
-    - During the initial render, React will create the DOM nodes for <section>, <h1>, and three <img> tags.
+    - During the initial render, React will create the DOM nodes for section, h1, and three img tags.
     - During a re-render, React will calculate which of their properties, if any, have changed since the previous render. It won’t do anything with that information until the next step, the commit phase.
 
 4. After React has updated the DOM, what still needs to happen before the user sees the change?
