@@ -1,8 +1,6 @@
 # Reading Class 27
 
-## Thinking in React
-
-[Thinking in React](https://react.dev/learn/thinking-in-react)
+## [Thinking in React](https://react.dev/learn/thinking-in-react)
 
 1. Summarize the five steps of thinking in react.
 
@@ -16,10 +14,7 @@
 
     - **Step 5**: Add inverse data flow; to change the state according to user input, you will need to support data flowing the other way: the form components deep in the hierarchy need to update the state.
 
-
-## State: A Component’s Memory
-
-[State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
+## [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
 
 1. What is one reason a local variable isn’t sufficient for managing a React component?
     - Local variables don't persist between renders
