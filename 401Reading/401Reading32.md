@@ -1,6 +1,8 @@
 # Class 32 Reading
 
-## Scaling Up with Reducer and Context
+## Context API - Behaviors
+
+### Scaling Up with Reducer and Context
 
 **How do useReducer and useContext work together to simplify state management in a React application? (At least two paragraphs of prose.)**
 - `useReducer` and `useContext` work together to simplify state management. `useReducer` allows us to manage complex state changes in a more controlled way, while `useContext` allows for sharing of state between components without having to pass around props.
