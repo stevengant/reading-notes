@@ -1,0 +1,1 @@
+![Steve Gant Resume](../images/SteveGantReadyForReview.png)
